@@ -1,0 +1,6 @@
+framework module Pods_NodeMCUApp {
+  umbrella header "Pods-NodeMCUApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
